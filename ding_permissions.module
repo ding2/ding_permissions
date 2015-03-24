@@ -149,6 +149,7 @@ function ding_permissions_secure_permissions($role) {
       'search content',
       'view any ding_staff_profile profile',
       'view files',
+      'display EU Cookie Compliance popup',
     ),
     'authenticated user' => array(
       'access comments',
@@ -164,6 +165,7 @@ function ding_permissions_secure_permissions($role) {
       'view own ding_staff_profile profile',
       'view own files',
       'view own private files',
+      'display EU Cookie Compliance popup',
     ),
     'administrators' => array(
       'access administration pages',
@@ -335,6 +337,7 @@ function ding_permissions_secure_permissions($role) {
       'dynamic backgrounds css callback',
       'dynamic backgrounds set default',
       'dynamic backgrounds weight',
+      'administer EU Cookie Compliance popup',
       'edit any audio files',
       'edit any ding_campaign content',
       'edit any ding_event content',
@@ -693,6 +696,7 @@ function ding_permissions_secure_permissions($role) {
       'dynamic backgrounds css callback',
       'dynamic backgrounds set default',
       'dynamic backgrounds weight',
+      'administer EU Cookie Compliance popup',
       'edit any audio files',
       'edit any ding_campaign content',
       'edit any ding_event content',
