@@ -14,3 +14,6 @@ projects[secure_permissions][patch][] = "http://drupal.org/files/issues/secure_p
 
 projects[role_delegation][subdir] = "contrib"
 projects[role_delegation][version] = "1.1"
+
+projects[override_node_options][subdir] = "contrib"
+projects[override_node_options][version] = "1.13"
